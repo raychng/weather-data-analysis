@@ -2,7 +2,7 @@
 
 1. __ENSO Forecasts__: 
 
-https://raychng.github.io/enso_research.html
+https://raychng.github.io/enso_research
 - enso_research.ipynb
 - enso_iri_prob.json
 - eno_plumes.json
