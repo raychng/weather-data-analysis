@@ -1,10 +1,12 @@
 # Weather Related Sub-Projects
 
-1. __ENSO Forecasts__
+1. __ENSO Forecasts__: 
+
+https://raychng.github.io/enso_research.html
 - enso_research.ipynb
 - enso_iri_prob.json
 - eno_plumes.json
-- ENSO_forecasts.visualisations.html
+- ENSO_forecasts_visualisations.html
 
 2. __Pulling Crop Data from GBQ__
 - pulling_crop_data.ipynb
